@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dra-andrea-rodriguez
-Demo web para ESTUDIO JURIDICO DRA. ANDREA RODRIGUEZ — diseñada por eterlab.
+# ESTUDIO JURIDICO DRA. ANDREA RODRIGUEZ
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
